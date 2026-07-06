@@ -2,7 +2,7 @@
 
 A pixel-faithful partial clone of https://enterprise.accredian.com, built with **Next.js 14 App Router**, **TypeScript**, and **Tailwind CSS**.
 
-**Live Demo:** _[Deploy to Vercel and update this link]_  
+**Live Demo:** 
 **Repository:** https://github.com/salmafirdhows-cloud/accredian-enterprise
 
 ---
